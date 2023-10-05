@@ -10,3 +10,7 @@ npx qiita new 記事のファイルのベース名
 ```
 npx qiita publish 記事のファイルのベース名
 ```
+
+## 参考資料
+* https://github.com/increments/qiita-cli
+* https://qiita.com/Qiita/items/32c79014509987541130
