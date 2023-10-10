@@ -5,7 +5,7 @@ tags:
   - diffusionmodel
   - DALL-E
 private: false
-updated_at: '2023-10-11T00:13:27+09:00'
+updated_at: '2023-10-11T02:53:12+09:00'
 id: 1c382302c4c8311b98e9
 organization_url_name: null
 slide: false
@@ -58,7 +58,7 @@ import IPython.display as display
 <a href="https://www.data-science-wiki.net/article?path=/multimodal/text_to_image/dall-e.html"><img src="https://raw.githubusercontent.com/fuyu-quant/data-science-wiki/main/images/logo2.png" alt="Data Science Wiki" width="300"/>
 </a>
 
-<a href="" target="_blank" rel="noopener noreferrer"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<a href="https://colab.research.google.com/github/fuyu-quant/data-science-wiki/blob/main/multimodal/text_to_image/dall-e.ipynb" target="_blank" rel="noopener noreferrer"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 画像生成
 
@@ -104,7 +104,7 @@ with open('sample_image.png', 'wb') as file:
 <a href="https://www.data-science-wiki.net/article?path=/multimodal/Image_editing/dall-e_variations.html"><img src="https://raw.githubusercontent.com/fuyu-quant/data-science-wiki/main/images/logo2.png" alt="Data Science Wiki" width="300"/>
 </a>
 
-<a href="" target="_blank" rel="noopener noreferrer"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<a href="https://colab.research.google.com/github/fuyu-quant/data-science-wiki/blob/main/multimodal/image_editing/dall-e_variations.ipynb" target="_blank" rel="noopener noreferrer"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 先ほどの画像を元に新しい画像を生成します．
 
@@ -140,7 +140,8 @@ display.display(image)
 
 <a href="https://www.data-science-wiki.net/article?path=/multimodal/Image_editing/dall-e.html"><img src="https://raw.githubusercontent.com/fuyu-quant/data-science-wiki/main/images/logo2.png" alt="Data Science Wiki" width="300"/>
 </a>
-<a href="" target="_blank" rel="noopener noreferrer"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+<a href="https://colab.research.google.com/github/fuyu-quant/data-science-wiki/blob/main/multimodal/image_editing/dall-e.ipynb" target="_blank" rel="noopener noreferrer"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 先ほどの画像の猫の顔の部分をマスクします．
 
