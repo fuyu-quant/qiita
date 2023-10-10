@@ -2,8 +2,10 @@
 title: Segment Anything
 tags:
   - CV
+  - segmentation
+  - Segmentanything
 private: false
-updated_at: '2023-10-11T03:34:30+09:00'
+updated_at: '2023-10-11T03:36:16+09:00'
 id: e27505c00e92aa2a1acd
 organization_url_name: null
 slide: false
