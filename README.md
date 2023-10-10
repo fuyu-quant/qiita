@@ -22,4 +22,4 @@ npx qiita pull
 
 ## 参考資料
 * https://github.com/increments/qiita-cli
-* https://qiita.com/Qiita/items/32c79014509987541130
+* https://qiita.com/Qiita/items/32c7901450998754113

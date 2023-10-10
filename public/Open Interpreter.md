@@ -6,7 +6,7 @@ tags:
   - GPT-4
   - openinterpreter
 private: false
-updated_at: '2023-10-06T02:17:49+09:00'
+updated_at: '2023-10-08T15:32:09+09:00'
 id: e531b5d1f87a8640d10e
 organization_url_name: brainpad
 slide: false
@@ -49,11 +49,7 @@ https://openinterpreter.com/
 ※注意点:Open Interpreterでは必要なライブラリをいくつもインストールしていくので，ColabやDocker環境などで実行することをお勧めします．
 
 # 2. 使い方(Python)
-すぐに試したい方はData Science WikiのページまたはColabのリンクから実行してみてください
-
-<a href="https://www.data-science-wiki.net/article?path=/nlp/llm_framework/open_interpreter.html">
-<img src="https://raw.githubusercontent.com/fuyu-quant/data-science-wiki/main/images/logo2.png" alt="Data Science Wiki" width="400"/>
-</a>
+すぐに試したい方は以下のColabのリンクから実行してみてください
 
 <a href="https://colab.research.google.com/github/fuyu-quant/data-science-wiki/blob/develop/nlp/llm_framework/open_interpreter.ipynb" target="_blank" rel="noopener noreferrer"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 

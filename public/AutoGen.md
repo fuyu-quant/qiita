@@ -6,9 +6,9 @@ tags:
   - gpt-3.5-turbo
   - GPT-4
 private: false
-updated_at: '2023-10-06T02:17:54+09:00'
+updated_at: '2023-10-10T12:53:08+09:00'
 id: b5b94ebcae0d278a793e
-organization_url_name: null
+organization_url_name: brainpad
 slide: false
 ignorePublish: false
 ---
